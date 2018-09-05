@@ -18,6 +18,7 @@ def quick_sort_partition(myList, start, end):
         pass
 
 def partition(myList, start, end):
+    pivot_val = myList[start]
     
     
 
